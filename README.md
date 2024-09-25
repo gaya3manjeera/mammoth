@@ -24,3 +24,8 @@ The following features are currently supported:
 - Text boxes. The contents of the text box are treated as a separate paragraph that appears after the paragraph containing the text box.
 
 - Comments.
+
+# Install Mammoth
+To install the Mammoth, please make sure that you have Python and PIP installed on your PC. Then, you can open CMD or Terminal and use the following command:
+
+**$ pip install mammoth** 
